@@ -1,3 +1,3 @@
-# tylerpalko.github.io
+# kutay.github.io
 
 This is just a simple front page.
